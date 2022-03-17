@@ -4,7 +4,7 @@ Simple pattern scanner based on the 2 sources in the credits
 
 Example Usage.
 ```cpp
-  Example pattern with '?' being the wildcard - 2B ? 2B ? 55 ? 45 ?
+  Example pattern with '?' being the wildcard - 69 ? 69 ? 69 ? 69
   
   HMODULE GameModule = GetModuleHandle(NULL);
   const uint64 BaseAddress = reinterpret_cast<uint64>(GameModule);
